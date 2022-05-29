@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mDkDFWcNrkRUZdaMA93BWlvsOut8VZojwcoF8qIn1qp4FZpfwKy4mqFuLEUKTrRLr2REL0NxwLlL9W8bzDhmIQ==",
+  "success": true,
+  "projectFilePath": "C:\\School_Projects\\Stenography\\Stenography_C\\Stenography_Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\websocketsharp.standard\\1.0.3\\websocketsharp.standard.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

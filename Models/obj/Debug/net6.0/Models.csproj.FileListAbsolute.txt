@@ -1,0 +1,12 @@
+C:\School_Projects\Stenography\Models\bin\Debug\net6.0\Models.deps.json
+C:\School_Projects\Stenography\Models\bin\Debug\net6.0\Models.dll
+C:\School_Projects\Stenography\Models\bin\Debug\net6.0\Models.pdb
+C:\School_Projects\Stenography\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\School_Projects\Stenography\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\School_Projects\Stenography\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\School_Projects\Stenography\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\School_Projects\Stenography\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\School_Projects\Stenography\Models\obj\Debug\net6.0\Models.dll
+C:\School_Projects\Stenography\Models\obj\Debug\net6.0\refint\Models.dll
+C:\School_Projects\Stenography\Models\obj\Debug\net6.0\Models.pdb
+C:\School_Projects\Stenography\Models\obj\Debug\net6.0\ref\Models.dll

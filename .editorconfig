@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS8600: Null sabit değeri veya olası null değeri, boş değer atanamaz türe dönüştürülüyor.
+dotnet_diagnostic.CS8600.severity = none
